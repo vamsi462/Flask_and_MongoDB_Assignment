@@ -1,5 +1,4 @@
 # Flask_and_MongoDB_Assignment
-# Flask and MongoDB Assignment
 
 This repository contains my submissions for the Flask and MongoDB DevOps assignment. 
 
